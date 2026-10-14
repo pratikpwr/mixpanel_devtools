@@ -1,6 +1,6 @@
 name: mixpanel_devtools
 description: A Flutter DevTools extension to inspect, filter, and export the Mixpanel events of a running app.
-version: 0.2.0
+version: 0.2.1
 repository: https://github.com/pratikpwr/mixpanel_devtools
 issue_tracker: https://github.com/pratikpwr/mixpanel_devtools/issues
 

@@ -1,3 +1,8 @@
+## 0.2.1
+
+- Improve the package page. The README now starts with a quick start, groups the features, and shows how the recorder works.
+- Use absolute URLs for the README screenshot and links, so that the package page shows them before pub.dev finishes its analysis.
+
 ## 0.2.0
 
 - Add the "Other calls: Shown / Hidden" toggle. Hidden shows only `track` events, numbered in sequence.
