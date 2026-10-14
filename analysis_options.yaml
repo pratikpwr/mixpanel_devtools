@@ -1,0 +1,17 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - extension/devtools/build/**
+    - example/**
+    - build/**
+    - web/**
+
+linter:
+  rules:
+    - always_declare_return_types
+    - curly_braces_in_flow_control_structures
+    - prefer_final_locals
+    - prefer_single_quotes
+formatter:
+  page_width: 120

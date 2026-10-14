@@ -1,0 +1,5 @@
+name: mixpanel_devtools
+issueTracker: https://github.com/pratikpwr/mixpanel_devtools/issues
+version: 0.2.0
+materialIconCodePoint: '0xe083'
+requiresConnection: true
